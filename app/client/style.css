@@ -1,0 +1,110 @@
+.gray {
+  color: gray;
+}
+
+.razer-logo-text {
+  margin-left: 50px;
+}
+
+.gray-background {
+  background-color: #282727;
+}
+
+.ui.borderless.attached.menu {
+  background-color: #222222;
+  border:none;
+  box-shadow: none;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.ui.borderless.attached.topmenu.menu {
+  background-color: #222222;
+  border: none;
+  box-shadow: none;
+}
+
+.grad-background {
+  background-image: url('https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hd8/h8c/9285102075934/razer-blade-15-GTX-1660-desktop-home-large2x.jpg');
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+
+.grad-background2{
+  background-image: url('https://d4kkpd69xt9l7.cloudfront.net/sys-master/images/hc8/h9c/9293892648990/HH-True-Wireless-A-3840x1400-desktop-v2.jpg');
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.ui.centered.text{
+  font-size: 40px;
+  color: #888888;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.ui.centered.simple.text {
+  margin-bottom: 30px;
+}
+
+.ui.simple.dropdown.item:not(:hover) {
+  color: gray;
+}
+
+.ui.item a:not(:hover){
+  color: gray;
+}
+
+.ui.simple.dropdown.item:hover {
+  color: white;
+}
+
+.ui.inverted.menu .item:not(:hover) {
+  color: black;
+}
+
+.ui.item a:hover {
+  color: white;
+}
+
+.large-search-icon {
+  color: white;
+}
+
+.footer-background .column {
+  color: white;
+}
+
+.footer-background .column .item {
+  color: gray;
+}
+
+.footer-background {
+  background-color: #282727;
+  padding-top: 50px;
+}
+
+.ui.item:not(:hover) {
+  color: gray;
+}
+
+.ui.item:hover {
+  color: white;
+}
+
+.item a:not(:hover) {
+  color: gray;
+}
+
+.item a:hover {
+  color: white;
+}
