@@ -9,10 +9,8 @@ export default class IslandSnow extends React.Component {
   render() {
     return (
         <div>
-          <TopMenu/>
           <PageImage/>
           <BottomImage/>
-          <Footer/>
         </div>
     );
   }
